@@ -8,22 +8,20 @@ I’m **Aseel Abd Elhaq**, a Computer Science student at **Birzeit University (2
 I enjoy building **mobile apps** and **web platforms**, combining clean design with solid engineering.  
 My focus is on **Android development (Kotlin & Java)**, **full-stack web applications**, and **database systems**.  
 
-
 ---
 
-
 ## 📊 GitHub Stats
-![Aseel’s GitHub stats](https://github-readme-stats.vercel.app/api?username=AseelAbdElhaq&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AseelAbdElhaq&layout=compact&theme=tokyonight)
+![Aseel’s GitHub stats](https://github-readme-stats.vercel.app/api?username=AseelAbdElhaq&show_icons=true&title_color=0A66C2&icon_color=00BFFF&text_color=333333&bg_color=F0F8FF)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AseelAbdElhaq&layout=compact&title_color=0A66C2&icon_color=00BFFF&text_color=333333&bg_color=F0F8FF)
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="https://www.linkedin.com/in/aseel-abd-elhaq-7a446b318" target="blank">
+<a href="https://www.linkedin.com/in/aseel-abd-elhaq-7a446b318" target="_blank" rel="noopener noreferrer">
   <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
 </a>
-<a href="mailto:aseelabdelhaq228@gmail.com">
+<a href="mailto:aseelabdelhaq228@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/>
 </a>
 </p>
@@ -44,3 +42,6 @@ My focus is on **Android development (Kotlin & Java)**, **full-stack web applica
   <img src="https://img.icons8.com/color/48/linux.png" alt="Linux"/>
 </p>
 
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=AseelAbdElhaq&label=Profile%20views&color=00BFFF&style=flat)
