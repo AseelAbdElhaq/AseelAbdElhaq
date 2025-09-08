@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Hi there 👋, I'm Aseel Abd Elhaq</h1>
-<h3 align="center">Computer Science Student @ Birzeit University | Android & Web Developer</h3>
+<h3 align="center">Computer Science Student @ Birzeit University | Android Developer</h3>
 
 ---
 
