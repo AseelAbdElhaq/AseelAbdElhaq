@@ -42,6 +42,3 @@ My focus is on **Android development (Kotlin & Java)**, **full-stack web applica
   <img src="https://img.icons8.com/color/48/linux.png" alt="Linux"/>
 </p>
 
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=AseelAbdElhaq&label=Profile%20views&color=00BFFF&style=flat)
