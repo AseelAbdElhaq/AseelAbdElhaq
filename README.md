@@ -8,7 +8,6 @@ I’m **Aseel Abd Elhaq**, a Computer Science student at **Birzeit University (2
 I enjoy building **mobile apps** and **web platforms**, combining clean design with solid engineering.  
 My focus is on **Android development (Kotlin & Java)**, **full-stack web applications**, and **database systems**.  
 
-✨ I love learning new tools, working on projects that challenge me, and sharing ideas with the developer community.  
 
 ---
 
@@ -45,6 +44,3 @@ My focus is on **Android development (Kotlin & Java)**, **full-stack web applica
   <img src="https://img.icons8.com/color/48/linux.png" alt="Linux"/>
 </p>
 
----
-
-![Visitor Count](https://komarev.com/ghpvc/?username=AseelAbdElhaq&label=Profile%20views&color=0e75b6&style=flat)
