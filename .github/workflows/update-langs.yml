@@ -43,7 +43,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          mkdir -p assets   # make sure assets folder exists
+          mkdir -p assets   # ensure folder exists
+          ls -R assets || true  # list files for debugging
+          git add assets || true
           git add assets/* || true
           if ! git diff --cached --quiet; then
             git commit -m "chore: update languages chart (stacked bar, include forks)"
