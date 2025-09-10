@@ -17,7 +17,7 @@ My focus is on **Android development (Kotlin & Java)**, **full-stack web applica
 ---
 
 ## 📈 Most Used Languages (Auto-Updated)
-The chart below pulls language data from all **owned** repositories (excluding forks by default) and updates daily.
+The chart below pulls language data from all **owned repositories** (excluding forks by default) and updates **daily** via GitHub Actions.
 
 <p align="center">
   <img src="assets/languages.svg" alt="Auto-updated language breakdown" />
