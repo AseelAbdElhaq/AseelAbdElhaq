@@ -7,15 +7,16 @@ import matplotlib.pyplot as plt
 from matplotlib.lines import Line2D
 import numpy as np
 
-# -------- Config --------
+# -------- Config via env --------
 GITHUB_API     = "https://api.github.com"
 TOKEN          = os.getenv("GITHUB_TOKEN")
 USERNAME       = os.getenv("USERNAME")
 REPO_INCLUDE_FORKS = os.getenv("INCLUDE_FORKS", "true").lower() == "true"
 REPO_VISIBILITY    = os.getenv("VISIBILITY", "all")
+TOP_N          = int(os.getenv("TOP_N", "25"))
 MIN_PERCENT    = float(os.getenv("MIN_PERCENT", "1.0"))
 SKIP_LANGS     = {s.strip() for s in os.getenv("SKIP_LANGS", "").split(",") if s.strip()}
-# ------------------------
+# --------------------------------
 
 if not TOKEN or not USERNAME:
     print("ERROR: GITHUB_TOKEN and USERNAME env vars are required.", file=sys.stderr)
@@ -85,7 +86,7 @@ def main():
     colors = [cmap(i % 20) for i in range(len(widths))]
 
     fig, ax = plt.subplots(figsize=(8, 3))
-    fig.patch.set_facecolor("#F0F8FF")   # light blue card background
+    fig.patch.set_facecolor("#F0F8FF")   # light blue background like GitHub card
     ax.set_facecolor("#F0F8FF")
 
     for w, l, c in zip(widths, lefts, colors):
@@ -97,7 +98,7 @@ def main():
     ax.set_xticks([])
     ax.set_frame_on(False)
 
-    # Title like GitHub card
+    # Title
     ax.text(0, 0.55, "All Used Languages", fontsize=12, fontweight="bold", color="#0A66C2")
 
     # Legend
@@ -108,11 +109,9 @@ def main():
 
     fig.tight_layout()
 
+    # ----- Save files -----
     out_dir = os.path.join("assets")
     os.makedirs(out_dir, exist_ok=True)
-    fig.savefig(os.path.join(out_dir, "languages.svg"), format="svg", bbox_inches="tight")
-    fig.savefig(os.path.join(out_dir, "languages.png"), format="png", dpi=200, bbox_inches="tight")
-    plt.close(fig)
 
     svg_path = os.path.join(out_dir, "languages.svg")
     png_path = os.path.join(out_dir, "languages.png")
@@ -122,7 +121,7 @@ def main():
     plt.close(fig)
 
     # Debug output
-    print("✅ Chart generated")
+    print("✅ Chart generated successfully")
     print(f"SVG saved to: {svg_path}, exists? {os.path.exists(svg_path)}")
     print(f"PNG saved to: {png_path}, exists? {os.path.exists(png_path)}")
 
