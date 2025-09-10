@@ -16,6 +16,15 @@ My focus is on **Android development (Kotlin & Java)**, **full-stack web applica
 
 ---
 
+## 📈 Most Used Languages (Auto-Updated)
+The chart below pulls language data from all **owned** repositories (excluding forks by default) and updates daily.
+
+<p align="center">
+  <img src="assets/languages.svg" alt="Auto-updated language breakdown" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 <p align="center">
 <a href="https://www.linkedin.com/in/aseel-abd-elhaq-7a446b318" target="_blank" rel="noopener noreferrer">
@@ -41,4 +50,3 @@ My focus is on **Android development (Kotlin & Java)**, **full-stack web applica
   <img src="https://img.icons8.com/color/48/android-os.png" alt="Android"/>
   <img src="https://img.icons8.com/color/48/linux.png" alt="Linux"/>
 </p>
-
