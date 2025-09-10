@@ -1,0 +1,52 @@
+name: Update Languages Chart
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # daily at 03:00 UTC
+  workflow_dispatch:      # allow manual runs
+  push:
+    paths:
+      - "scripts/gen_langs.py"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests matplotlib numpy
+
+      - name: Generate languages chart
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: "AseelAbdElhaq"
+          INCLUDE_FORKS: "true"        # include forked repos
+          VISIBILITY: "all"            # "public" | "private" | "all"
+          MIN_PERCENT: "1.0"           # filter out languages < 1%
+          SKIP_LANGS: ""               # optional: e.g. "Jupyter Notebook,Makefile"
+          TOP_N: "25"                  # keep many; filtering happens by percent
+        run: |
+          python scripts/gen_langs.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/languages.svg assets/languages.png assets/languages.md || true
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update languages chart (stacked bar, include forks)"
+            git push
+          else
+            echo "No changes to commit."
+          fi
