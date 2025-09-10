@@ -16,9 +16,8 @@ My focus is on **Android development (Kotlin & Java)**, **full-stack web applica
 
 ---
 
-## 📈 All Used Languages in Account (Auto-Updated)
+## 📈 All Used Languages in Account 
 This chart aggregates language usage across **all owned repositories (including forks, archived excluded)**.  
-Tiny/noise languages are filtered out automatically.
 
 <p align="center">
   <img src="assets/languages.svg" alt="All Used Languages in Account (auto-updated)" />
