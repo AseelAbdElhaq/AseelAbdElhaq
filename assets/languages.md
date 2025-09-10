@@ -1,9 +1,9 @@
 # Auto-Updated Language Breakdown
-_Analyzed 5 repositories (owner repos, forks=excluded)._
+_Analyzed 5 repositories (forks included, archived excluded)._
 
-- **HTML** — 67.9%
-- **JavaScript** — 13.6%
-- **Java** — 7.6%
-- **Python** — 5.6%
-- **CSS** — 2.7%
-- **Shell** — 2.5%
+- **HTML** — 67.65%
+- **JavaScript** — 13.57%
+- **Java** — 7.57%
+- **Python** — 6.01%
+- **CSS** — 2.72%
+- **Shell** — 2.47%
