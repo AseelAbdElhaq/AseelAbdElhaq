@@ -114,7 +114,17 @@ def main():
     fig.savefig(os.path.join(out_dir, "languages.png"), format="png", dpi=200, bbox_inches="tight")
     plt.close(fig)
 
-    print("✅ Stacked bar language card generated")
+    svg_path = os.path.join(out_dir, "languages.svg")
+    png_path = os.path.join(out_dir, "languages.png")
+
+    fig.savefig(svg_path, format="svg", bbox_inches="tight")
+    fig.savefig(png_path, format="png", dpi=200, bbox_inches="tight")
+    plt.close(fig)
+
+    # Debug output
+    print("✅ Chart generated")
+    print(f"SVG saved to: {svg_path}, exists? {os.path.exists(svg_path)}")
+    print(f"PNG saved to: {png_path}, exists? {os.path.exists(png_path)}")
 
 if __name__ == "__main__":
     main()
