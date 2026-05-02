@@ -1,36 +1,46 @@
 <!-- 🎥 Banner -->
-![Banner](https://github.com/AseelAbdElhaq/AseelAbdElhaq/blob/main/banner.gif?raw=true)
+<p align="center">
+  <img src="https://github.com/AseelAbdElhaq/AseelAbdElhaq/blob/main/banner.gif?raw=true" alt="Banner"/>
+</p>
 
 ---
 
 ## 🚀 About Me
 I’m **Aseel Abd Elhaq**, a Computer Science student at **Birzeit University (2022–2026)** with a strong passion for creating technology that makes life easier.  
+
 I enjoy building **mobile apps** and **web platforms**, combining clean design with solid engineering.  
-My focus is on **Android development (Kotlin & Java)**, **full-stack web applications**, and **database systems**.  
+
+My focus is on:
+- 📱 Android Development (Kotlin & Java)  
+- 🌐 Full-Stack Web Applications  
+- 🗄 Database Systems  
 
 ---
 
 ## 📊 GitHub Stats
-![Aseel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AseelAbdElhaq&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AseelAbdElhaq&layout=compact&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AseelAbdElhaq&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AseelAbdElhaq&layout=compact&theme=tokyonight&cache_seconds=1800" height="180"/>
+</p>
+
 ---
 
-
-
 ## 🌐 Connect With Me
+
 <p align="center">
-<a href="https://www.linkedin.com/in/aseel-abd-elhaq-7a446b318" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
-</a>
-<a href="mailto:aseelabdelhaq228@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/>
-</a>
+  <a href="https://www.linkedin.com/in/aseel-abd-elhaq-7a446b318" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:aseelabdelhaq228@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/>
+  </a>
 </p>
 
 ---
 
 ## 🛠 Languages and Tools
+
 <p align="center">
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
   <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
@@ -43,3 +53,14 @@ My focus is on **Android development (Kotlin & Java)**, **full-stack web applica
   <img src="https://img.icons8.com/color/48/android-os.png" alt="Android"/>
   <img src="https://img.icons8.com/color/48/linux.png" alt="Linux"/>
 </p>
+
+---
+
+## 💡 Notes
+
+- If GitHub stats don’t load, it’s usually temporary (API rate limits).
+- Refresh the page or wait a few minutes.
+
+---
+
+⭐ *Always learning, always building.*
