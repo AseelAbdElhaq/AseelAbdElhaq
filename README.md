@@ -24,11 +24,7 @@ I’m always learning and exploring new technologies to improve my skills and bu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AseelAbdElhaq&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AseelAbdElhaq&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=AseelAbdElhaq&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak Stats"/>
 </p>
 
 ---
