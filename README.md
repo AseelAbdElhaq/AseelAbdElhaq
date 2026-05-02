@@ -54,11 +54,7 @@ I’m always learning and exploring new technologies to improve my skills and bu
 
 ---
 
-## 💡 Notes
 
-- GitHub stats may occasionally fail due to API rate limits.
-- Refresh the page or wait a few minutes if images don’t load.
 
----
 
 ⭐ *Always learning, always building.*
