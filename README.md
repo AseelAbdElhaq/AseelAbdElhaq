@@ -6,16 +6,16 @@
 ---
 
 ## 🚀 About Me
-## 🚀 About Me
 
 I’m **Aseel Abd Elhaq**, a Computer Science student at **Birzeit University (2022–2026)** passionate about building impactful and user-friendly technology.
 
 I enjoy developing **mobile and web applications**, focusing on clean UI design, performance, and real-world problem solving.
 
 Currently, I’m working on:
-- 🌐 Full-Stack Web Applications
-- 🗄 Database Systems
-- 📱 Android Development (Kotlin & Java)
+-  Android Development (Kotlin & Java)
+-  Flutter Development
+-  Full-Stack Web Applications
+-  Database Systems
 
 I’m always learning and exploring new technologies to improve my skills and build better software.
 
@@ -30,6 +30,7 @@ I’m always learning and exploring new technologies to improve my skills and bu
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AseelAbdElhaq&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
 ---
 
 ## 🌐 Connect With Me
@@ -48,24 +49,15 @@ I’m always learning and exploring new technologies to improve my skills and bu
 ## 🛠 Languages and Tools
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
-  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/android-os.png" alt="Android"/>
-  <img src="https://img.icons8.com/color/48/linux.png" alt="Linux"/>
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,mysql,mongodb,androidstudio,linux,flutter,dart" />
 </p>
 
 ---
 
 ## 💡 Notes
 
-- If GitHub stats don’t load, it’s usually temporary (API rate limits).
-- Refresh the page or wait a few minutes.
+- GitHub stats may occasionally fail due to API rate limits.
+- Refresh the page or wait a few minutes if images don’t load.
 
 ---
 
