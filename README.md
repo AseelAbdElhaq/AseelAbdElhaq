@@ -5,7 +5,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 Hi, I’m **Aseel Abd Elhaq**, a Computer Science student at **Birzeit University (2022–2026)**.
 
@@ -14,16 +14,16 @@ I’m interested in creating simple user experiences, writing organized code, an
 
 Currently, I’m focusing on:
 
-- 📱 Android Development using **Kotlin & Java**
-- 💙 Flutter Development
-- 🌐 Web Development
-- 🗄 Database Systems
+-  Android Development using **Kotlin & Java**
+-  Flutter Development
+-  Web Development
+-  Database Systems
 
 I’m always learning, improving, and building projects that help me grow as a developer.
 
 ---
 
-## 📊 Most Used Languages
+##  Most Used Languages
 
 <p align="center">
   <img 
@@ -35,7 +35,7 @@ I’m always learning, improving, and building projects that help me grow as a d
 
 ---
 
-## 🔥 GitHub Activity
+##  GitHub Activity
 
 <p align="center">
   <img 
