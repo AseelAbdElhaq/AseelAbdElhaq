@@ -6,24 +6,30 @@
 ---
 
 ## 🚀 About Me
-I’m **Aseel Abd Elhaq**, a Computer Science student at **Birzeit University (2022–2026)** with a strong passion for creating technology that makes life easier.  
+## 🚀 About Me
 
-I enjoy building **mobile apps** and **web platforms**, combining clean design with solid engineering.  
+I’m **Aseel Abd Elhaq**, a Computer Science student at **Birzeit University (2022–2026)** passionate about building impactful and user-friendly technology.
 
-My focus is on:
-- 📱 Android Development (Kotlin & Java)  
-- 🌐 Full-Stack Web Applications  
-- 🗄 Database Systems  
+I enjoy developing **mobile and web applications**, focusing on clean UI design, performance, and real-world problem solving.
+
+Currently, I’m working on:
+- 🌐 Full-Stack Web Applications
+- 🗄 Database Systems
+- 📱 Android Development (Kotlin & Java)
+
+I’m always learning and exploring new technologies to improve my skills and build better software.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AseelAbdElhaq&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AseelAbdElhaq&layout=compact&theme=tokyonight&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AseelAbdElhaq&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AseelAbdElhaq&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 ---
 
 ## 🌐 Connect With Me
