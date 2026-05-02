@@ -11,9 +11,9 @@ My focus is on **Android development (Kotlin & Java)**, **full-stack web applica
 ---
 
 ## 📊 GitHub Stats
-![Aseel’s GitHub stats](https://github-readme-stats.vercel.app/api?username=AseelAbdElhaq&show_icons=true&title_color=0A66C2&icon_color=00BFFF&text_color=333333&bg_color=F0F8FF)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AseelAbdElhaq&layout=compact&title_color=0A66C2&icon_color=00BFFF&text_color=333333&bg_color=F0F8FF)
+![Aseel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AseelAbdElhaq&show_icons=true&theme=default)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AseelAbdElhaq&layout=compact&theme=default)
 ---
 
 
