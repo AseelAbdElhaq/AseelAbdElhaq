@@ -47,7 +47,7 @@ I’m always learning, improving, and building projects that help me grow as a d
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aseel-abd-elhaq-7a446b318" target="_blank">
@@ -60,7 +60,7 @@ I’m always learning, improving, and building projects that help me grow as a d
 
 ---
 
-## 🛠 Languages and Tools
+##  Languages and Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,flutter,dart,python,c,html,css,js,mysql,mongodb,androidstudio,linux" />
