@@ -1,30 +1,48 @@
-<!-- 🎥 Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://github.com/AseelAbdElhaq/AseelAbdElhaq/blob/main/banner.gif?raw=true" alt="Banner"/>
+  <img src="https://github.com/AseelAbdElhaq/AseelAbdElhaq/blob/main/banner.gif?raw=true" alt="Banner" width="100%"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-I’m **Aseel Abd Elhaq**, a Computer Science student at **Birzeit University (2022–2026)** passionate about building impactful and user-friendly technology.
+Hi, I’m **Aseel Abd Elhaq**, a Computer Science student at **Birzeit University (2022–2026)**.
 
-I enjoy developing **mobile and web applications**, focusing on clean UI design, performance, and real-world problem solving.
+I enjoy building clean and useful software, especially **mobile apps** and **web applications**.  
+I’m interested in creating simple user experiences, writing organized code, and solving real-world problems through technology.
 
-Currently, I’m working on:
--  Android Development (Kotlin & Java)
--  Flutter Development
--  Full-Stack Web Applications
--  Database Systems
+Currently, I’m focusing on:
 
-I’m always learning and exploring new technologies to improve my skills and build better software.
+- 📱 Android Development using **Kotlin & Java**
+- 💙 Flutter Development
+- 🌐 Web Development
+- 🗄 Database Systems
+
+I’m always learning, improving, and building projects that help me grow as a developer.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AseelAbdElhaq&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak Stats"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AseelAbdElhaq&layout=compact&theme=default&hide_border=true&title_color=1f2937&text_color=374151&bg_color=f4fbfb" 
+    alt="Most Used Languages" 
+    height="190"
+  />
+</p>
+
+---
+
+## 🔥 GitHub Activity
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=AseelAbdElhaq&theme=default&hide_border=true&background=f4fbfb&ring=56AAFF&fire=FFA723&currStreakLabel=1f2937" 
+    alt="GitHub Streak Stats" 
+    height="170"
+  />
 </p>
 
 ---
@@ -45,12 +63,11 @@ I’m always learning and exploring new technologies to improve my skills and bu
 ## 🛠 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,mysql,mongodb,androidstudio,linux,flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,flutter,dart,python,c,html,css,js,mysql,mongodb,androidstudio,linux" />
 </p>
 
 ---
 
-
-
-
-⭐ *Always learning, always building.*
+<p align="center">
+  <b>Always learning, always building.</b>
+</p>
